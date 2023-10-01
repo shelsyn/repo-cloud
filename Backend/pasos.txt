@@ -1,0 +1,18 @@
+Pasos de crear servidor: 
+
+
+Crear carpeta de backend separada del front (Tiene que estar separa por el tema del puerto, por que tienen que ser distintos)
+
+front- puert= 2000
+backend - = 3000 / 4000 etc.
+
+
+Fetch - con esto se puede dar la comunicacion entre el back y el front.
+.then 
+
+- Vite config- ddetermianr server y proxy para consuminsion de informacion.
+
+(Repasar las promesas de js)
+
+
+
